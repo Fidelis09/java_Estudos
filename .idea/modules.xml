@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/40_JDBC3_insert/40_JDBC3.iml" filepath="$PROJECT_DIR$/40_JDBC3_insert/40_JDBC3.iml" />
       <module fileurl="file://$PROJECT_DIR$/41_JDBC4_update/41_JDBC4.iml" filepath="$PROJECT_DIR$/41_JDBC4_update/41_JDBC4.iml" />
       <module fileurl="file://$PROJECT_DIR$/42_JDBC5_delete/42_JDBC5_delete.iml" filepath="$PROJECT_DIR$/42_JDBC5_delete/42_JDBC5_delete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/43_JDBC_transacoes/43_JDBC_transacoes.iml" filepath="$PROJECT_DIR$/43_JDBC_transacoes/43_JDBC_transacoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java_Estudos.iml" filepath="$PROJECT_DIR$/.idea/java_Estudos.iml" />
     </modules>
   </component>
